@@ -19,7 +19,7 @@
   ],
   "main": "dist/index.js",
   "module": "dist/index.es.js",
-  "types": "dist/src/index.d.ts",
+  "types": "dist/index.d.ts",
   "repository": "https://github.com/martonlederer/chrome-storage-promises",
   "author": "Marton Lederer <marton@lederer.hu>",
   "license": "MIT",
